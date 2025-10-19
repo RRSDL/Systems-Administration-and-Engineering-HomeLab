@@ -1,0 +1,4 @@
+Week 1 Log - Environment Setup
+
+- Installed and configured initial VMs.
+- Verified base network connectivity.
